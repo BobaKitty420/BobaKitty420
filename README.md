@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BobaKitty420
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript and Python
-- 💞️ I’m looking to collaborate on Website and Windows App Making
+- 💞️ I’m looking to collaborate on Website and Windows App Developement
 - 📫 How to reach me: Steam- BobaKitty420   
